@@ -1,16 +1,14 @@
-# Compiled class file
+# Compiled Java classes
 *.class
 
-# Log file
+# Java temporary files
 *.log
-
-# BlueJ files
+*.tmp
+*.bak
+*.swp
 *.ctxt
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
+# Package files
 *.jar
 *.war
 *.nar
@@ -19,6 +17,20 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# Maven project target folder
+/target/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+
+# H2 database files
+*.h2.db
+
+# Virtual machine crash logs
 hs_err_pid*
 replay_pid*
+
+# Docker files
+*.env
