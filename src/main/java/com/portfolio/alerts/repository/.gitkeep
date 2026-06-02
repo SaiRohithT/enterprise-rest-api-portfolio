@@ -1,0 +1,6 @@
+package com.portfolio.alerts.repository;
+
+/**
+ * Package for repository interfaces and data access layer.
+ * Placeholder for Phase 2 implementation.
+ */
