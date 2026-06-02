@@ -1,0 +1,6 @@
+package com.portfolio.alerts.entity;
+
+/**
+ * Package for JPA entity classes.
+ * Placeholder for Phase 2 implementation.
+ */
